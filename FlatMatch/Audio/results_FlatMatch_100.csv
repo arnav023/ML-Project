@@ -1,0 +1,2 @@
+experiment,num_labeled,accuracy,precision,recall,f1,val_accuracy
+FlatMatch,100,0.628,0.6333667549806352,0.605777041909197,0.5917348903742466,0.621
