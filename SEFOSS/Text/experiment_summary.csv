@@ -1,0 +1,8 @@
+Metric,Value
+Dataset,Yahoo Answers
+Total Samples,10000
+Classes,10
+Best Accuracy (500 labeled),0.702
+Best F1 Score (500 labeled),0.6992827791687195
+Accuracy with 40 labeled,0.3974
+Model,BERT + SeFOSS
